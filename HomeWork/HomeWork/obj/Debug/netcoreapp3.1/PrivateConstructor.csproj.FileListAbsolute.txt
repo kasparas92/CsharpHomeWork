@@ -1,0 +1,13 @@
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\PrivateConstructor.exe
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\PrivateConstructor.deps.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\PrivateConstructor.runtimeconfig.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\PrivateConstructor.runtimeconfig.dev.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\PrivateConstructor.dll
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\PrivateConstructor.pdb
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\PrivateConstructor.csprojAssemblyReference.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\PrivateConstructor.AssemblyInfoInputs.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\PrivateConstructor.AssemblyInfo.cs
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\PrivateConstructor.csproj.CoreCompileInputs.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\PrivateConstructor.dll
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\PrivateConstructor.pdb
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\PrivateConstructor.genruntimeconfig.cache
