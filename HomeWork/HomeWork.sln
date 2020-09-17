@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateConstructor", "HomeWork\PrivateConstructor.csproj", "{D972415F-B92A-4A61-8FF2-BE644C1B8493}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrivateConstructor", "HomeWork\PrivateConstructor.csproj", "{D972415F-B92A-4A61-8FF2-BE644C1B8493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedListDictionaryAndHashSet", "SortedListDictionaryAndHashSet\SortedListDictionaryAndHashSet.csproj", "{CC9369D8-E712-43C8-98C8-CAF6A1CBF4EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D972415F-B92A-4A61-8FF2-BE644C1B8493}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D972415F-B92A-4A61-8FF2-BE644C1B8493}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D972415F-B92A-4A61-8FF2-BE644C1B8493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9369D8-E712-43C8-98C8-CAF6A1CBF4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9369D8-E712-43C8-98C8-CAF6A1CBF4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9369D8-E712-43C8-98C8-CAF6A1CBF4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9369D8-E712-43C8-98C8-CAF6A1CBF4EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

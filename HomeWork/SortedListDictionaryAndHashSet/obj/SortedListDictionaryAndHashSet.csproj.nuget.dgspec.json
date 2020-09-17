@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kasparas.jurkevicius\\Desktop\\Software Engineering Trainings\\CsharpHomeWork\\HomeWork\\HomeWork\\PrivateConstructor.csproj": {}
+    "C:\\Users\\kasparas.jurkevicius\\Desktop\\Software Engineering Trainings\\CsharpHomeWork\\HomeWork\\SortedListDictionaryAndHashSet\\SortedListDictionaryAndHashSet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kasparas.jurkevicius\\Desktop\\Software Engineering Trainings\\CsharpHomeWork\\HomeWork\\HomeWork\\PrivateConstructor.csproj": {
+    "C:\\Users\\kasparas.jurkevicius\\Desktop\\Software Engineering Trainings\\CsharpHomeWork\\HomeWork\\SortedListDictionaryAndHashSet\\SortedListDictionaryAndHashSet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kasparas.jurkevicius\\Desktop\\Software Engineering Trainings\\CsharpHomeWork\\HomeWork\\HomeWork\\PrivateConstructor.csproj",
-        "projectName": "PrivateConstructor",
-        "projectPath": "C:\\Users\\kasparas.jurkevicius\\Desktop\\Software Engineering Trainings\\CsharpHomeWork\\HomeWork\\HomeWork\\PrivateConstructor.csproj",
+        "projectUniqueName": "C:\\Users\\kasparas.jurkevicius\\Desktop\\Software Engineering Trainings\\CsharpHomeWork\\HomeWork\\SortedListDictionaryAndHashSet\\SortedListDictionaryAndHashSet.csproj",
+        "projectName": "SortedListDictionaryAndHashSet",
+        "projectPath": "C:\\Users\\kasparas.jurkevicius\\Desktop\\Software Engineering Trainings\\CsharpHomeWork\\HomeWork\\SortedListDictionaryAndHashSet\\SortedListDictionaryAndHashSet.csproj",
         "packagesPath": "C:\\Users\\kasparas.jurkevicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kasparas.jurkevicius\\Desktop\\Software Engineering Trainings\\CsharpHomeWork\\HomeWork\\HomeWork\\obj\\",
+        "outputPath": "C:\\Users\\kasparas.jurkevicius\\Desktop\\Software Engineering Trainings\\CsharpHomeWork\\HomeWork\\SortedListDictionaryAndHashSet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

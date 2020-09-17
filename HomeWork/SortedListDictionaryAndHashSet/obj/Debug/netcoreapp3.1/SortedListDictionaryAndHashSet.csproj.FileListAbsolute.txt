@@ -1,0 +1,13 @@
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\SortedListDictionaryAndHashSet\bin\Debug\netcoreapp3.1\SortedListDictionaryAndHashSet.exe
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\SortedListDictionaryAndHashSet\bin\Debug\netcoreapp3.1\SortedListDictionaryAndHashSet.deps.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\SortedListDictionaryAndHashSet\bin\Debug\netcoreapp3.1\SortedListDictionaryAndHashSet.runtimeconfig.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\SortedListDictionaryAndHashSet\bin\Debug\netcoreapp3.1\SortedListDictionaryAndHashSet.runtimeconfig.dev.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\SortedListDictionaryAndHashSet\bin\Debug\netcoreapp3.1\SortedListDictionaryAndHashSet.dll
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\SortedListDictionaryAndHashSet\bin\Debug\netcoreapp3.1\SortedListDictionaryAndHashSet.pdb
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\SortedListDictionaryAndHashSet\obj\Debug\netcoreapp3.1\SortedListDictionaryAndHashSet.csprojAssemblyReference.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\SortedListDictionaryAndHashSet\obj\Debug\netcoreapp3.1\SortedListDictionaryAndHashSet.AssemblyInfoInputs.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\SortedListDictionaryAndHashSet\obj\Debug\netcoreapp3.1\SortedListDictionaryAndHashSet.AssemblyInfo.cs
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\SortedListDictionaryAndHashSet\obj\Debug\netcoreapp3.1\SortedListDictionaryAndHashSet.csproj.CoreCompileInputs.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\SortedListDictionaryAndHashSet\obj\Debug\netcoreapp3.1\SortedListDictionaryAndHashSet.dll
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\SortedListDictionaryAndHashSet\obj\Debug\netcoreapp3.1\SortedListDictionaryAndHashSet.pdb
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\SortedListDictionaryAndHashSet\obj\Debug\netcoreapp3.1\SortedListDictionaryAndHashSet.genruntimeconfig.cache
