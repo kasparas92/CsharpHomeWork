@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP", "LSP\LSP.csproj", "{C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonAndCommandAndObserverPatterns", "SingletonAndCommandAndObserverPatterns\SingletonAndCommandAndObserverPatterns.csproj", "{09CF93E9-843F-4661-8D56-735EF6E339C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionAndAttribute", "ReflectionAndAttribute\ReflectionAndAttribute.csproj", "{7FA2AB82-AB30-4B26-B699-11A773E9D142}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{09CF93E9-843F-4661-8D56-735EF6E339C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09CF93E9-843F-4661-8D56-735EF6E339C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09CF93E9-843F-4661-8D56-735EF6E339C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA2AB82-AB30-4B26-B699-11A773E9D142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA2AB82-AB30-4B26-B699-11A773E9D142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA2AB82-AB30-4B26-B699-11A773E9D142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA2AB82-AB30-4B26-B699-11A773E9D142}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

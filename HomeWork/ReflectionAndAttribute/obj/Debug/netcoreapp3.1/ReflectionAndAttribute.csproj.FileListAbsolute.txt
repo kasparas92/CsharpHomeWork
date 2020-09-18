@@ -1,0 +1,13 @@
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\ReflectionAndAttribute\bin\Debug\netcoreapp3.1\ReflectionAndAttribute.exe
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\ReflectionAndAttribute\bin\Debug\netcoreapp3.1\ReflectionAndAttribute.deps.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\ReflectionAndAttribute\bin\Debug\netcoreapp3.1\ReflectionAndAttribute.runtimeconfig.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\ReflectionAndAttribute\bin\Debug\netcoreapp3.1\ReflectionAndAttribute.runtimeconfig.dev.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\ReflectionAndAttribute\bin\Debug\netcoreapp3.1\ReflectionAndAttribute.dll
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\ReflectionAndAttribute\bin\Debug\netcoreapp3.1\ReflectionAndAttribute.pdb
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\ReflectionAndAttribute\obj\Debug\netcoreapp3.1\ReflectionAndAttribute.csprojAssemblyReference.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\ReflectionAndAttribute\obj\Debug\netcoreapp3.1\ReflectionAndAttribute.AssemblyInfoInputs.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\ReflectionAndAttribute\obj\Debug\netcoreapp3.1\ReflectionAndAttribute.AssemblyInfo.cs
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\ReflectionAndAttribute\obj\Debug\netcoreapp3.1\ReflectionAndAttribute.csproj.CoreCompileInputs.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\ReflectionAndAttribute\obj\Debug\netcoreapp3.1\ReflectionAndAttribute.dll
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\ReflectionAndAttribute\obj\Debug\netcoreapp3.1\ReflectionAndAttribute.pdb
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\ReflectionAndAttribute\obj\Debug\netcoreapp3.1\ReflectionAndAttribute.genruntimeconfig.cache
