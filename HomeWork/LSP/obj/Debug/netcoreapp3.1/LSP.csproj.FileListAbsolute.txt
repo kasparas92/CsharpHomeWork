@@ -1,0 +1,12 @@
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\LSP\bin\Debug\netcoreapp3.1\LSP.exe
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\LSP\bin\Debug\netcoreapp3.1\LSP.deps.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\LSP\bin\Debug\netcoreapp3.1\LSP.runtimeconfig.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\LSP\bin\Debug\netcoreapp3.1\LSP.runtimeconfig.dev.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\LSP\bin\Debug\netcoreapp3.1\LSP.dll
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\LSP\bin\Debug\netcoreapp3.1\LSP.pdb
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\LSP\obj\Debug\netcoreapp3.1\LSP.AssemblyInfoInputs.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\LSP\obj\Debug\netcoreapp3.1\LSP.AssemblyInfo.cs
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\LSP\obj\Debug\netcoreapp3.1\LSP.csproj.CoreCompileInputs.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\LSP\obj\Debug\netcoreapp3.1\LSP.dll
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\LSP\obj\Debug\netcoreapp3.1\LSP.pdb
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\LSP\obj\Debug\netcoreapp3.1\LSP.genruntimeconfig.cache

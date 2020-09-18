@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExamples", "LinqExample
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToXML", "LinqToXML\LinqToXML.csproj", "{8F9E8D6E-9DA5-4BE1-A65D-BC2D1E33146B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP", "LSP\LSP.csproj", "{C7774C56-A61A-4A7F-A372-AD6FF6676B9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8F9E8D6E-9DA5-4BE1-A65D-BC2D1E33146B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F9E8D6E-9DA5-4BE1-A65D-BC2D1E33146B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F9E8D6E-9DA5-4BE1-A65D-BC2D1E33146B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7774C56-A61A-4A7F-A372-AD6FF6676B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7774C56-A61A-4A7F-A372-AD6FF6676B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7774C56-A61A-4A7F-A372-AD6FF6676B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7774C56-A61A-4A7F-A372-AD6FF6676B9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
