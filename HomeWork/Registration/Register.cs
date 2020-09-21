@@ -50,7 +50,7 @@ namespace Registration
                 Console.WriteLine("Confirm your Password:(password and confirm password does not match!!!!!) ");
                 input = Console.ReadLine();
             }
-            SendEmail(p);
+            //SendEmail(p); --Commented because not Working!!!!
             return p;
         }
 
