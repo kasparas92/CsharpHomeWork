@@ -20,11 +20,12 @@ namespace Registration
             {
                 FirstName = "Kasparas",
                 LastName = "Jurkevicius",
-                Email = "kasparas.jurkevicius@euromonitor.com",
+                Email = "kaspersky@gmail.com",
                 UserName = "kasparas92",
-                Password = "Qwertyuiop1@",
+                Password = "Qwertyuiop1#",
                 IsLocked = false
             };
+            users.Add(p);
             int input;
             while ((input = Convert.ToInt32(Console.ReadLine())) != 4)
             {
@@ -39,6 +40,7 @@ namespace Registration
                     case 3:
                         foreach(var u in users)
                         {
+                            Console.WriteLine($"{users.IndexOf(u) + 1}");
                             Console.WriteLine($"FirstName: {u.FirstName}");
                             Console.WriteLine($"LastName: {u.LastName}");
                             Console.WriteLine($"Email: {u.Email}");

@@ -23,7 +23,7 @@ namespace Registration
             var emails = people.Select(x => x.Email).ToList();
             while (!p.ValidateEmail(input, emails))
             {
-                Console.WriteLine("Enter your Email AGAIN: ");
+                Console.WriteLine($"{new Exception("Email Already Registered!!!!")}");
                 input = Console.ReadLine();
             }
             p.Email = input;
@@ -39,7 +39,7 @@ namespace Registration
             input = Console.ReadLine();
             while (!p.ValidatePassword(input))
             {
-                Console.WriteLine($"{new Exception("Email Already Registered!!!!")}");
+                Console.WriteLine($"Password is not correct, should be 12 chars, 1Upper, 1Symbol!");
                 input = Console.ReadLine();
             }
             p.Password = input;
@@ -50,7 +50,7 @@ namespace Registration
                 Console.WriteLine("Confirm your Password:(password and confirm password does not match!!!!!) ");
                 input = Console.ReadLine();
             }
-            //SendEmail(p); --Commented because not Working!!!!
+            SendEmail(p); //Commented because not Working!!!!
             return p;
         }
 
@@ -60,16 +60,16 @@ namespace Registration
             {
                 MailMessage mailMessage = new MailMessage();
                 SmtpClient smptClient = new SmtpClient();
-                mailMessage.From = new MailAddress("support@gmail.com");
+                mailMessage.From = new MailAddress("jonaitisdevmail@gmail.com");
                 mailMessage.To.Add(new MailAddress(person.Email));
                 mailMessage.Subject = "Registration";
                 mailMessage.IsBodyHtml = true;
                 mailMessage.Body = $"You have successfully registered {person.UserName}";
                 smptClient.Port = 587;
-                smptClient.Host = "smtp-mail.outlook.com";
+                smptClient.Host = "smtp.gmail.com";
                 smptClient.EnableSsl = true;
                 smptClient.UseDefaultCredentials = false;
-                smptClient.Credentials = new NetworkCredential("email@email", "password");
+                smptClient.Credentials = new NetworkCredential("jonaitisdevmail@gmail.com", "Slaptazodis123!");
                 smptClient.DeliveryMethod = SmtpDeliveryMethod.Network;
                 smptClient.Send(mailMessage);
                 Console.WriteLine("Email sent successfully");
