@@ -1,0 +1,13 @@
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.exe
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.deps.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.runtimeconfig.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.runtimeconfig.dev.json
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.dll
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.pdb
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.csprojAssemblyReference.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.AssemblyInfoInputs.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.AssemblyInfo.cs
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.csproj.CoreCompileInputs.cache
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.dll
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.pdb
+C:\Users\kasparas.jurkevicius\Desktop\Software Engineering Trainings\CsharpHomeWork\HomeWork\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.genruntimeconfig.cache

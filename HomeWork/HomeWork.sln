@@ -7,17 +7,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrivateConstructor", "HomeW
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedListDictionaryAndHashSet", "SortedListDictionaryAndHashSet\SortedListDictionaryAndHashSet.csproj", "{CC9369D8-E712-43C8-98C8-CAF6A1CBF4EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExamples", "LinqExamples\LinqExamples.csproj", "{E165DBE1-963B-4FE9-BB9D-49C993DE9C51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqExamples", "LinqExamples\LinqExamples.csproj", "{E165DBE1-963B-4FE9-BB9D-49C993DE9C51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToXML", "LinqToXML\LinqToXML.csproj", "{8F9E8D6E-9DA5-4BE1-A65D-BC2D1E33146B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqToXML", "LinqToXML\LinqToXML.csproj", "{8F9E8D6E-9DA5-4BE1-A65D-BC2D1E33146B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP", "LSP\LSP.csproj", "{C7774C56-A61A-4A7F-A372-AD6FF6676B9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LSP", "LSP\LSP.csproj", "{C7774C56-A61A-4A7F-A372-AD6FF6676B9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonAndCommandAndObserverPatterns", "SingletonAndCommandAndObserverPatterns\SingletonAndCommandAndObserverPatterns.csproj", "{09CF93E9-843F-4661-8D56-735EF6E339C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonAndCommandAndObserverPatterns", "SingletonAndCommandAndObserverPatterns\SingletonAndCommandAndObserverPatterns.csproj", "{09CF93E9-843F-4661-8D56-735EF6E339C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionAndAttribute", "ReflectionAndAttribute\ReflectionAndAttribute.csproj", "{7FA2AB82-AB30-4B26-B699-11A773E9D142}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionAndAttribute", "ReflectionAndAttribute\ReflectionAndAttribute.csproj", "{7FA2AB82-AB30-4B26-B699-11A773E9D142}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registration", "Registration\Registration.csproj", "{66A17EA2-7D6A-410C-A3CF-525D7BBC278F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Registration", "Registration\Registration.csproj", "{66A17EA2-7D6A-410C-A3CF-525D7BBC278F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCSharp", "TestCSharp\TestCSharp.csproj", "{DA5C780C-9201-4533-A64C-C9D46DB3FEE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRegistration", "TestRegistration\TestRegistration.csproj", "{2B0F55BB-CAED-40D4-87CB-5684EC96AAAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise5", "Excercise5\Excercise5.csproj", "{C44CA742-5786-4DCF-AFFB-0CCE954240D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{66A17EA2-7D6A-410C-A3CF-525D7BBC278F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66A17EA2-7D6A-410C-A3CF-525D7BBC278F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66A17EA2-7D6A-410C-A3CF-525D7BBC278F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5C780C-9201-4533-A64C-C9D46DB3FEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5C780C-9201-4533-A64C-C9D46DB3FEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5C780C-9201-4533-A64C-C9D46DB3FEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5C780C-9201-4533-A64C-C9D46DB3FEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0F55BB-CAED-40D4-87CB-5684EC96AAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0F55BB-CAED-40D4-87CB-5684EC96AAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0F55BB-CAED-40D4-87CB-5684EC96AAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0F55BB-CAED-40D4-87CB-5684EC96AAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C44CA742-5786-4DCF-AFFB-0CCE954240D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44CA742-5786-4DCF-AFFB-0CCE954240D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44CA742-5786-4DCF-AFFB-0CCE954240D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44CA742-5786-4DCF-AFFB-0CCE954240D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
